@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+	background-color: #e0ca75
+}
+header{
+	text-align: center;
+	background-color: #61081a ;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	font-size: 30px;
+}
+
+h1, h2{
+	font-family: 'Big Shoulders Stencil Text', cursive;
+	font-family: 'Condiment', cursive;
+	font-family: 'Sedgwick Ave Display', cursive;	
+}
+
+header img{
+	border-radius: 50px;
+	width: 400px;
+	border: 5px solid #e0ca75;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h1{
+	color: #e0ca75;
+}
+h2{
+	font-size: 30px;
+	color: #61081a;
+	margin: 40px 0 10px;
+
+}
+
+a{
+	color: #61081a;
+}
+a:hover{
+	color: #483a94;
+}
+footer{
+	text-align: center;
+	background-color: #61081a ;
+	color: #e0ca75;
+	padding: 20px;
+}
+
+footer a{
+	color: #e0ca75;
+}
+
+p.caption{
+	color: #61081a;
+	text-align: center;
+	font-style: italic;
+	margin-top: 0;
+
+}
